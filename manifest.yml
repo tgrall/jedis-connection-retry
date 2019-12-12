@@ -1,0 +1,6 @@
+---
+applications:
+  - name: jedis-connection-failover-demo-cloud
+    memory: 1G
+    random-route: true
+    path: target/jedis-connection-failover-demo-cloud.jar
